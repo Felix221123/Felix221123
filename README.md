@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a first year university student<br>⛳️ I major in computer science<br>📍 I am currently learning nodeJS with expressJS and mongoDB  to build full stack applications<br> 
+🔭 Apparently I'm a university student<br>⛳️ I major in computer science<br>📍 I am currently learning nodeJS with expressJS and mongoDB  to build full stack applications<br> 
 
 
 ## 🌐 Socials:
