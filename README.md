@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍀 Apparently I am a university student<br>⛳️ I major in computer science<br>🏀 I like playing basketball : )<br>🎧 I am currently learning technologies such as docker, AWS , postgresql, api development etc
+🍀 I am a university student<br>⛳️ I major in computer science<br>🏀 I like playing basketball : )<br>🎧 I am currently learning technologies such as docker, AWS , databases, api development etc
 
 
 ## 🌐 Socials:
