@@ -1,6 +1,5 @@
 # 💫 About Me:
-🍀 I am a university student<br>⛳️ I major in computer science<br>🏀 I like playing basketball : )<br>🎧 I am currently learning technologies such as AWS , databases, api development,AI Agents, LLMs, etc
-
+🍀 I am a CMSCI university student<br>🏃🏾 I am a sports and fitness person 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felix-baah-938815258) 
